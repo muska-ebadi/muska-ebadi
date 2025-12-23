@@ -52,8 +52,6 @@ Currently working on a real-world website project for **Karma Cares Community**,
 - Social media integration
 - Client-focused design thinking
 
-This project is part of an **IBM SkillsBuild / Riipen experiential learning program**, providing industry mentorship and real client collaboration.
-
 ---
 
 ## 🤝 Team & Academic Experience
